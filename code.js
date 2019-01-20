@@ -1,0 +1,14 @@
+//var element = document.getElementById("bodyId");
+//var text1 = element.innerHTML;
+//var text2 = element.innerText;
+var test1 = {};
+var test2 = [];
+var test3 = {"acsdsd": 123};
+var test4 = ["abcscs", 123]; 
+var test5 = null;
+console.log(typeof test1);
+console.log(typeof test2);
+console.log(typeof test3);
+console.log(typeof test4);
+console.log(typeof test5);
+//alert(text1);
